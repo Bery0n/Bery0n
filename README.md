@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bery0n" alt="bery0n" /></a> </p>-->
 
-- 🔭 I’m currently working on **RunRunRun**
+- 🔭 I’m currently working on **Getting Cheesy Game**
 
 - 🌱 I’m currently learning **Blender, Unity and Angular**
 
